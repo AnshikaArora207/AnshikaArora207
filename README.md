@@ -8,7 +8,7 @@ Hi there, I'm Anshika Arora! 👋
 
 📸 PicXcel Photography Club Secretary 
 
-Organized 5+ events and workshops, increasing participation by 40%.
+Organized 5+ events and workshops.
 
 🏆 Achievements
 
@@ -19,7 +19,9 @@ Top 50 in Women Hackathon WIE (from 1800+ teams)
 🛠️ Skills
 
 Languages: C, C++, JavaScript
+
 Frameworks/Libraries: React, Redux, Node.js, Express, TensorFlow
+
 Tools: Git, GitHub, VS Code, Firebase, TypeScript, Next.js
 
 🚀 Featured Projects
