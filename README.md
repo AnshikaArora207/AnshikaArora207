@@ -6,9 +6,11 @@ Hi there, I'm Anshika Arora! 👋
 
 🌱 About Me
 
-PicXcel Photography Club Secretary: Organized 5+ events and workshops, increasing participation by 40%.
+📸 PicXcel Photography Club Secretary 
 
-Achievements:
+Organized 5+ events and workshops, increasing participation by 40%.
+
+🏆 Achievements
 
 Branch Silver Medalist
 Cleared 3 of 4 rounds of Google WE program
@@ -22,13 +24,14 @@ Tools: Git, GitHub, VS Code, Firebase, TypeScript, Next.js
 
 🚀 Featured Projects
 
-Cura-foresight
+Cura-foresight : 
 Full-stack telemedicine platform integrating machine learning for diagnostics.
 
-Compiler
+Compiler : 
 A web-based development environment that enhances productivity and provides a seamless coding experience.
 
 📫 Connect with Me
+
 🔗 https://www.linkedin.com/in/anshikaa207/
 
 🟧 https://leetcode.com/u/anshikaa207/
