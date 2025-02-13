@@ -2,7 +2,7 @@ Hi there, I'm Anshika Arora! 👋
 
 🎓 B.Tech in Information Technology | IIIT Una | 5th Semester
 
-🌟 Passionate about Web Development (MERN Stack) and exploring Machine Learning. Currently, I'm enhancing my skill set and contributing to innovative projects that solve real-world problems.
+🌟 Passionate about Web Development (MERN Stack). Currently, I'm enhancing my skill set and contributing to innovative projects that solve real-world problems.
 
 🌱 About Me
 
